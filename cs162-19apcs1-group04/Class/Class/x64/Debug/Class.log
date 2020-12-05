@@ -1,0 +1,11 @@
+﻿  class.cpp
+E:\HCMUS-FIT-APCS\CS162\cs162-19apcs1-group04\Class\Class\class.cpp(409,49): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  header.cpp
+E:\HCMUS-FIT-APCS\CS162\cs162-19apcs1-group04\Class\Class\header.cpp(3218,26): warning C4101: 'newStudents': unreferenced local variable
+E:\HCMUS-FIT-APCS\CS162\cs162-19apcs1-group04\Class\Class\header.cpp(3219,17): warning C4101: 'newSize': unreferenced local variable
+  main.cpp
+  cli_menu.cpp
+  support_course.cpp
+  Generating Code...
+E:\HCMUS-FIT-APCS\CS162\cs162-19apcs1-group04\Class\Class\cli_menu.cpp(770): warning C4715: 'checkUser': not all control paths return a value
+  Class.vcxproj -> E:\HCMUS-FIT-APCS\CS162\cs162-19apcs1-group04\Class\x64\Debug\Class.exe
